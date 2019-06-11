@@ -1,0 +1,31 @@
+#footer{
+
+
+}
+
+#header{ color: white; background-color: #7c795d; font-family: 'Trocchi', serif; font-size: 50px; font-weight: normal; line-height: 80px; margin: 1;
+text-align:center
+}
+    
+
+
+#restaurants{
+    color: #7c795d; font-family: 'Source Sans Pro', sans-serif; font-size: 30px; font-weight: 400; line-height: 40px; margin: 0 0 24px;
+    text-align:left
+}
+
+
+#footer{
+    color: #7c795d; font-family: 'Source Sans Pro', sans-serif; font-size: 12px; font-weight: 400; line-height: 60px; margin: 0 0 24px;
+
+}
+
+.title{
+    color: #7c795d; font-family: 'Source Sans Pro', sans-serif; font-size: 40px; font-weight: 400; line-height: 60px; margin: 0 0 24px;
+    text-align:center
+}
+
+.description{
+    color: #685206; font-family: 'Helvetica Neue', sans-serif; font-size: 14px; line-height: 24px; margin: 0 0 24px; text-align: justify; text-justify: inter-word;
+width: 800px
+}
